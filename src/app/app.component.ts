@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title ='my app';
+  obj = {
+    id :"1",
+    name :"Nithin"
+  };
+  arr = ["abc","def","ghi"];
+  isTrue = true;
 }
