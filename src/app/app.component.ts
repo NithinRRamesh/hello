@@ -11,6 +11,6 @@ export class AppComponent {
     id :"1",
     name :"Nithin"
   };
-  arr = ["abc","def","ghi"];
+  arr = ["a","h","b","c","s","m","q"];
   isTrue = true;
 }
